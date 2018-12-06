@@ -1,4 +1,8 @@
+
+
 Conversions
 -Rands to cents
+   R5 = 5 multiply by 100
 -km to m
 -litre to ml
+
